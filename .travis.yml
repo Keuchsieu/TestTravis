@@ -5,3 +5,4 @@ compiler:
 
 script:
   - "g++ -Wall test.cpp"
+  - "test.cpp"
