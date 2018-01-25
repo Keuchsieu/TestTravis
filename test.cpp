@@ -2,6 +2,6 @@
 //using namespace std;
 
 int main(){
-    std::cout << "travis build and test works!" << endl;
+    std::cout << "travis build and test works!" << std::endl;
     return 0;
 }
