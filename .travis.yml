@@ -2,6 +2,7 @@ language: cpp
 
 compiler:
   - gcc
+  - clang
 
 script:
   - "gcc -Wall -pedantic test.cpp"
